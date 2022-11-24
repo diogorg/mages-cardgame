@@ -1,3 +1,3 @@
-# nodejs-skeleton
+# Mages Card Game
 
-Blank node.js with typescript project
+Simple API to create a battle mage card game
