@@ -28,8 +28,8 @@
     "typeorm": "^0.3.10"
   },
   "scripts": {
-    "dev": "nodemon --exec ts-node src/server.ts",
-    "start": "ts-node src/server.ts",
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "start": "ts-node src/index.ts",
     "test": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests",
     "test:clean": "jest --clearCache",
